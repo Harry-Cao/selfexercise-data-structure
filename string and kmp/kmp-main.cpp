@@ -2,6 +2,7 @@
  * 整体的思路可以参考    kmp-next.cpp
  * */
 # include"kmp-next.cpp"
+# include"string.cpp"
 
 int kmp(SqString t,SqString orin)
 {
