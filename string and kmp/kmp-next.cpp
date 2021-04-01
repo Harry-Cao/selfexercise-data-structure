@@ -28,6 +28,7 @@
  * --如何赋值next数组
  * */
 
+# include"string.cpp"
 
 void getNext(SqString t,int next[])
 {
