@@ -4,4 +4,7 @@
 
 self-exercise
 
-##### waiting list：string and kmp: BF.cpp
+##### waiting list:
+
+- [x] ##### 			string and kmp: BF.cpp
+
