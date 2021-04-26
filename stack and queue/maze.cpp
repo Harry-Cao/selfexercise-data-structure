@@ -4,6 +4,8 @@
  * 0表示可以走；1表示不能走
  * */
 
+//迷宫问题在recursion文件夹中也有一个版本'example5-F-maze.cpp'
+
 #include <malloc.h>
 #include <stdio.h>
 #include <stdlib.h>
